@@ -37,6 +37,6 @@ For Microsoft Teams offboarding, the user is removed from all teams they are a m
 Additional Information
 Author: Damian Krzewinski
 Version: 1.0
-Last Updated: [Date]
+Last Updated: [28-Feb-2024]
 
 Please review and update the script parameters and configurations according to your organization's requirements before running it.

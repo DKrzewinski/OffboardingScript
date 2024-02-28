@@ -9,7 +9,6 @@ Active Directory Module: The Active Directory PowerShell module must be availabl
 AzureAD Module: The AzureAD module is required for Microsoft 365 operations. Make sure to install it using the Install-Module -Name Az command.
 Microsoft Teams PowerShell Module: The MicrosoftTeams module is necessary for managing Microsoft Teams. Install it with 
 > Install-Module -Name PowerShellGet -Force -AllowClobber
-followed by 
 > Install-Module -Name MicrosoftTeams -Force -AllowClobber
 
 ## Configuration
